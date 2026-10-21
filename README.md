@@ -1,4 +1,5 @@
-# W2_workshop
+# W2_Workshop
 
-Meric Capar
-Matthew Pena
+## Group Members
+- Meric Capar
+- Matthew Pena
