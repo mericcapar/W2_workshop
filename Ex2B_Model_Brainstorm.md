@@ -50,7 +50,7 @@ The end user is Lana she is the business owner. She needs to:
 **walks**: walk_id (PK), walker_id (FK), walk_date, start_time, duration_min, price, is_paid
 
 ## Relationships
-(Matthew)
+Entities that will have relationships with each other are clients and dogs, walkers and dogs, dogs and walks, and walkers and walks. 
 
 ## Many-to-Many
-(Matthew)
+None our tables with many-to-many relationships seem to require a resolving table. 
