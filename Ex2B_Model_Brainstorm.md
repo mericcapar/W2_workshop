@@ -53,4 +53,4 @@ The end user is Lana she is the business owner. She needs to:
 Entities that will have relationships with each other are clients and dogs, walkers and dogs, dogs and walks, and walkers and walks. 
 
 ## Many-to-Many
-None our tables with many-to-many relationships seem to require a resolving table. 
+The tables that have many-to-many relationships with each other are dogs and walks.
